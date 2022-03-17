@@ -1,16 +1,12 @@
-# gdbflutter
+# The weather app challenge "GDBflutter" : 
 
-A new Flutter project.
+It is a mobile application using Flutter where you can add specific cities to see their weather conditions such as temperature, humidity ... 
+from an API.
 
-## Getting Started
+The project is incomplete 🙂 Edits that I will make in the future :
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Optimize the code and split it in an organized way.
+- The application currently fetch from the API only the name of the city in question, so other information such as temperature must be fetched.
+- Icons and images will change according to the city's atmosphere.
+- Add design improvements(Inkwell , space between city's name and temperature ..). 
+- Store previously searched cities and add refresh option.
